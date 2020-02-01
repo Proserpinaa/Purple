@@ -1,6 +1,6 @@
 /* body */
 body {
-    background-color: rgb(201, 90, 245);
+    background-color: rgb(130, 47, 163);
     margin: 0;
 }
 
@@ -12,11 +12,11 @@ body {
 
 /* header */
 .header {
-    background-color: rgb(250, 159, 250);
+    background-color: rgb(167, 106, 167);
     padding: 30px;
 }
 .header .logo {
-    background-color: rgb(219, 45, 241);
+    background-color: rgb(137, 28, 151);
     display: inline-block;
     font-size: 48px;
     padding: 15px 50px;
@@ -25,7 +25,7 @@ body {
 
 /* navigation */
 .navigation {
-    background-color: rgb(172, 31, 177);
+    background-color: rgb(134, 21, 138);
 }
 
 .navigation ul {
@@ -39,14 +39,14 @@ body {
 }
 
 .navigation a {
-    color: rgb(92, 4, 133);
+    color: rgb(76, 4, 109);
     text-decoration: none;
     text-transform: uppercase;
 }
 
 /* main */
 .main {
-    background-color: rgb(231, 154, 231);
+    background-color: rgb(160, 89, 160);
     float: left;
     min-height: 600px;
     width: 70%;
@@ -62,7 +62,7 @@ body {
 
 /* sidebar */
 .sidebar {
-    background-color: rgb(141, 113, 241);
+    background-color: rgb(86, 51, 212);
     float: left;
     min-height: 600px;
     width: 30%;
@@ -75,7 +75,7 @@ body {
 /* footer */
 .footer {
     clear: left;
-    background-color: rgb(140, 11, 214);
+    background-color: rgb(111, 6, 172);
     font-size: 14px;
     padding: 9px 0;
 }
